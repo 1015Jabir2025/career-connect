@@ -1,0 +1,10 @@
+/* Force profile image size for user image in profile form */
+.profile-img-avatar {
+  width: 20px !important;
+  height: 20px !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+  border: 2px solid #20B2AA !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08) !important;
+  display: inline-block;
+}
