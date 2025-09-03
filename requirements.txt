@@ -2,7 +2,7 @@ dj-database-url==3.0.0
 Django==3.2.25
 django-heroku==0.3.1
 mysqlclient==2.1.1
-psycopg2==2.9.10
+psycopg2==2.9.9
 sqlparse==0.5.3
 typing_extensions==4.14.0
 tzdata==2025.2
