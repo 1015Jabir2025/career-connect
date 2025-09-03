@@ -1,4 +1,4 @@
-asgiref==3.8.1
+asgiref==3.7.2
 dj-database-url==3.0.0
 Django==5.2.3
 django-heroku==0.3.1
